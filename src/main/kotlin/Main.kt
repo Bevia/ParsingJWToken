@@ -24,7 +24,6 @@ fun main() {
 
     println("Header: $header")
     println("Payload: $payload")
-
     println("Tenant ID: $tid")
 }
 
